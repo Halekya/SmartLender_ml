@@ -60,16 +60,6 @@ Built using:
 
 Provides a clean and responsive web interface for users to enter loan details and receive prediction results.
 
----
-
-## 👥 Project Submitted By
-
-**Anusha Tippabathini**
-
-**Email:** josephanusha678@gmail.com
-
----
-
 # 🚀 How to Run the Application
 
 ## Prerequisites
